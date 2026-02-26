@@ -62,4 +62,4 @@ This is a Python backend representation of the data shape and state-layer logic 
 - [x] **Step 7 — Review both files for correctness**
   Smoke-tested via Python assertions: add with title+description, add with title only, insertion-order listing, blank-title ValueError, and JSON round-trip reload. All passed. No out-of-scope behaviour included.
 
-- [ ] **Step 8 — Commit and push to branch**
+- [x] **Step 8 — Commit and push to branch**
