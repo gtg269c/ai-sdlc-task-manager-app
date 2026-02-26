@@ -73,3 +73,17 @@ All prompts recorded in chronological order.
 > Clarification — Step 3: B (JSON file persistence)
 
 ---
+
+## Prompt 11 — 2026-02-26
+
+> Your Role: You are an experienced software engineer. Before you start the task as mentioned below, please do the planning and write your steps in an md file with checkboxes against each step in the plan. If any step needs my clarification, please add it to the step to interact with me and get my confirmation. Do not make critical decisions on your own. Once you produce the plan, ask for my review and approval. After my approval, you can go ahead to execute the same plan one step at a time. Once you finish each step, mark the checkboxes as done in the plan.
+> Task: Refer to the task_service.py under the taskManager/ folder. Create python flask apis for each of the service there.
+
+---
+
+## Prompt 12 — 2026-02-26
+
+> I approve the plan. Proceed.
+> Clarification — Step 3: A (Yes, create requirements.txt)
+
+---
