@@ -59,3 +59,17 @@ All prompts recorded in chronological order.
 > Clarification — Step 3: A (React functional + hooks), Step 4: A (Logical components only)
 
 ---
+
+## Prompt 9 — 2026-02-26
+
+> Your Role: You are an experienced software engineer. Before you start the task as mentioned below, please do the planning and write your steps in an aidlc-docs/plans/code_generation_plan.md file with checkboxes against each step in the plan. If any step needs my clarification, please add it to the step to interact with me and get my confirmation. Do not make critical decisions on your own. Once you produce the plan, ask for my review and approval. After my approval, you can go ahead to execute the same plan one step at a time. Once you finish each step, mark the checkboxes as done in the plan.
+> Task: Refer to component design in the aidlc-docs/design-artifacts/task_component_model.md file. Generate a very simple Python implementation for the Task Management Component with just two features: add new tasks and list all tasks. Keep it simple - no complex priority logic needed. Generate the classes in respective individual files and save them in the taskManager directory: task.py (Task class), and task_service.py (TaskService class).
+
+---
+
+## Prompt 10 — 2026-02-26
+
+> I approve the plan. Proceed. After completing each step, mark the checkbox in your plan file.
+> Clarification — Step 3: B (JSON file persistence)
+
+---
