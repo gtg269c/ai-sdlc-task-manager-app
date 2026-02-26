@@ -18,3 +18,10 @@ All prompts recorded in chronological order.
 > Acknowledge the intent and confirm understanding.
 
 ---
+
+## Prompt 3 — 2026-02-26
+
+> Your Role: You are an expert product manager and are tasked with creating well defined user stories that becomes the contract for developing the system as mentioned in the Task section below. Plan for the work ahead and write your steps in an md file (user_stories_plan.md) with checkboxes for each step in the plan. If any step needs my clarification, add a note in the step to get my confirmation. Do not make critical decisions on your own. Upon completing the plan, ask for my review and approval. After my approval, you can go ahead to execute the same plan one step at a time. Once you finish each step, mark the checkboxes as done in the plan.
+> Your Task: Build user stories for the high-level requirement as described here: "Build a simple task manager that allows me to add new tasks and view my task list. Keep it simple with just these two core features." Save the final user stories in aidlc-docs/story-artifacts/mvp_user_stories.md file.
+
+---
