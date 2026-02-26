@@ -25,3 +25,9 @@ All prompts recorded in chronological order.
 > Your Task: Build user stories for the high-level requirement as described here: "Build a simple task manager that allows me to add new tasks and view my task list. Keep it simple with just these two core features." Save the final user stories in aidlc-docs/story-artifacts/mvp_user_stories.md file.
 
 ---
+
+## Prompt 4 — 2026-02-26
+
+> Step 2: B,   Step 3: B
+
+---
