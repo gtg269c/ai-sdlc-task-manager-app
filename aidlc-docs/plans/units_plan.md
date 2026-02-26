@@ -25,4 +25,4 @@
 - [x] **Step 7 — Review artifact for accuracy and completeness**
   Verified: all 3 stories embedded in full with correct AC tables; data model fields derived directly from story ACs; component responsibilities map cleanly to story behaviours; in/out-of-scope sections consistent with story out-of-scope clauses.
 
-- [ ] **Step 8 — Commit and push to branch**
+- [x] **Step 8 — Commit and push to branch**
