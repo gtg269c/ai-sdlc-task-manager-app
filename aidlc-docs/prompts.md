@@ -45,3 +45,17 @@ All prompts recorded in chronological order.
 > Clarification — Step 3: C (Full unit definition), Step 4: B (Embedded in full)
 
 ---
+
+## Prompt 7 — 2026-02-26
+
+> Your Role: You are an experienced software engineer. Before you start the task as mentioned below, please do the planning and write your steps in an aidlc-docs/design-artifacts/component_model_plan.md file with checkboxes against each step in the plan. If any step needs my clarification, please add it to the step to interact with me and get my confirmation. Do not make critical decisions on your own. Once you produce the plan, ask for my review and approval. After my approval, you can go ahead to execute the same plan one step at a time. Once you finish each step, mark the checkboxes as done in the plan.
+> Your Task: Refer to the user stories in the aidlc-docs/design-artifacts/task_management_unit.md file. Design the component model to implement all the user stories. This model shall contain all the components, the attributes, the behaviors and how the components interact to implement the user stories. Do not generate any codes yet. Write the component model into aidlc-docs/design-artifacts/task_component_model.md file.
+
+---
+
+## Prompt 8 — 2026-02-26
+
+> I approve. Proceed.
+> Clarification — Step 3: A (React functional + hooks), Step 4: A (Logical components only)
+
+---
