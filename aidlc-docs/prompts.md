@@ -31,3 +31,17 @@ All prompts recorded in chronological order.
 > Step 2: B,   Step 3: B
 
 ---
+
+## Prompt 5 — 2026-02-26
+
+> Your Role: You are an experienced software architect. Before you start the task as mentioned below, please do the planning and write your steps in the aidlc-docs/plans/units_plan.md file with checkboxes against each step in the plan. If any step needs my clarification, please add it to the step to interact with me and get my confirmation. Do not make critical decisions on your own. Once you produce the plan, ask for my review and approval. After my approval, you can go ahead to execute the same plan one step at a time. Once you finish each step, mark the checkboxes as done in the plan.
+> Your Task: Refer to the user stories in aidlc-docs/story-artifacts/mvp_user_stories.md file. Group the user stories into a single cohesive unit called "Task Management Unit" that contains all the user stories. Save this as aidlc-docs/design-artifacts/task_management_unit.md.
+
+---
+
+## Prompt 6 — 2026-02-26
+
+> I approve. proceed
+> Clarification — Step 3: C (Full unit definition), Step 4: B (Embedded in full)
+
+---
