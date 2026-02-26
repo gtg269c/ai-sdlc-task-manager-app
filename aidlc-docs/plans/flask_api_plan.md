@@ -61,4 +61,4 @@ GET /tasks
   - `POST /tasks` blank title → 400 with `{ "error": "..." }` ✓
   - `GET /tasks` → 200 with both tasks in insertion order ✓
 
-- [ ] **Step 7 — Commit and push to branch**
+- [x] **Step 7 — Commit and push to branch**
